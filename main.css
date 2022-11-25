@@ -54,9 +54,6 @@ body{
 @media(max-width: 800px){
 .profil{
     display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    float: none;
     max-height: 1000px;
     max-width: 150px;
     padding: 8px;
